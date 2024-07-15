@@ -7,5 +7,6 @@ docker.seafile.top/seafileltd/seafile-pro-mc:latest
 mariadb:10.5
 memcached:1.6
 elasticsearch:7.16.2
+dperson/samba:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
