@@ -11,5 +11,6 @@ dperson/samba:latest
 ghcr.io/esphome/esphome
 dlandon/zoneminder.machine.learning
 nodered/node-red:latest
+nextcloud:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
