@@ -16,3 +16,4 @@ mariadb
 redis
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+ghcr.io/home-assistant/home-assistant:stable
